@@ -20,26 +20,27 @@ Profitability insights across Regions and Sub-Categories
 Interactive filters and slicers for deep dives
 
 📁 Tabs Overview
+
 <img width="869" height="485" alt="image" src="https://github.com/user-attachments/assets/defb8ae8-7940-40b0-9013-5f61a2c423ab" />
 
-Executive Overview
-Summary of overall performance with visual KPIs, map, and trends
+<h1>Executive Overview</h1>
+Executive Overview Summary of overall performance with visual KPIs, map, and trends
 
 
 <img width="873" height="485" alt="image" src="https://github.com/user-attachments/assets/828194e2-ecf5-4a44-a835-b4498a42a1b3" />
 
-Product & Customer Analysis
-Analysis by category, segment, sub-category, and product-level sales
+</h1>Product & Customer Analysis</h1>
+Product & Customer Analysis Analysis by category, segment, sub-category, and product-level sales
 
 <img width="872" height="486" alt="image" src="https://github.com/user-attachments/assets/ea0ba3f0-f3fa-444a-8a26-da9772f4ac0f" />
 
-Shipping & Regional Analysis
-Compare performance by state and region; identify profitable zones
+</h1>Shipping & Regional Analysis</h1>
+Shipping & Regional Analysis Compare performance by state and region; identify profitable zones
 
 <img width="868" height="486" alt="image" src="https://github.com/user-attachments/assets/be16ef3c-407b-43e9-a1b2-713ff2ecc7ba" />
 
-Sales Trend Analysis
-View cumulative and yearly trends with time-based comparisons
+</h1>Sales Trend Analysis</h1>
+Sales Trend Analysis View cumulative and yearly trends with time-based comparisons
 
 🧠 Built For
 Executives & Sales Managers
