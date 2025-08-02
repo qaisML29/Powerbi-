@@ -1,5 +1,5 @@
 # Powerbi-
-<style>h1{color: dark blue}
+<style>h1{color: darkblue}</style>
 PowerBi Project
 
 Sales Dashboard
@@ -54,4 +54,4 @@ Measures: Sales, Profit, Quantity, Discount, Profit Margin
 
 💬 Final Note
 This dashboard is designed to simplify decision-making, highlight business opportunities, and track performance at multiple levels. Use the interactive visuals and filters to explore insights that matter most to your goals.
-</style>
+
