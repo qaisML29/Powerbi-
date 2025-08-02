@@ -1,7 +1,11 @@
 # Powerbi-
-<head><style>
+<!DOCTYPE.html>
+<head>
+<style>
 .intro{text-align:center;color:blue}
-</style></head>
+</style>
+</head>
+</body>
 PowerBi Project
 
 Sales Dashboard
@@ -52,8 +56,10 @@ Power BI Desktop
 
 Dataset: Sample - Superstore
 
+
 Measures: Sales, Profit, Quantity, Discount, Profit Margin
 
 💬 Final Note
 This dashboard is designed to simplify decision-making, highlight business opportunities, and track performance at multiple levels. Use the interactive visuals and filters to explore insights that matter most to your goals.
 
+</body>
